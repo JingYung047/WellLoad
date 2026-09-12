@@ -156,7 +156,7 @@ Users can optionally connect with friends and view each other's recovery progres
 
 ###  Ideation Boards
 
-图片
+<img width="1448" height="616" alt="image" src="https://github.com/user-attachments/assets/2d5dd54d-76f1-4ed8-b060-dc60a665e777" />
 
 **Row 1**: We started with a smarter task list. Dropped it because a better list still encourages users to take on more and this behaviour causes burnout.
 
@@ -166,7 +166,7 @@ Users can optionally connect with friends and view each other's recovery progres
 
 **User Flow:**
 
-图片
+<img width="638" height="794" alt="image" src="https://github.com/user-attachments/assets/11970d6b-f6f9-4752-b5d4-765b7859ca50" />
 
 **Stage 1 Set Up**
 
@@ -186,7 +186,8 @@ User completes the recovery activity → Earns progress in My Zoo → Pet improv
 
 **Problem Tree**
 
-图片
+<img width="1364" height="816" alt="image" src="https://github.com/user-attachments/assets/0eb9ebca-1796-44df-a048-424d5fb0e4a4" />
+
 
 **Problem:** Students manage classes, workouts, club duties, and personal commitments across different apps, making their total workload and remaining capacity difficult to see.
 
@@ -253,7 +254,8 @@ UI Prototype: [ https://canva.link/13ofm66bpa6b781 ]
 
 ## 5. Technical Architecture & Feasibility 
 
-图片
+![Uploading Codex Image Sep 10, 2026, 02_32_14 PM.png…]()
+
 
 ### Frontend
 

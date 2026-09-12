@@ -6,7 +6,7 @@
 
 ### Video Presentation:
 
-### Presentation Slides: 
+### Presentation Slides: https://www.canva.com/design/DAHU7_vkeEw/rLJ86yP6g_No9VoIDJ-eqA/edit
 
 
 ## 1. Project Overview
@@ -245,7 +245,7 @@ User completes the recovery activity → Earns progress in My Zoo → Pet improv
 
 ## 3. Design & Prototype 
 
-UI Prototype: [ https://canva.link/13ofm66bpa6b781 ] 
+UI Prototype: https://canva.link/13ofm66bpa6b781 
 
 ## 4. What Makes It Different 
 

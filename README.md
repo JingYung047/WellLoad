@@ -153,6 +153,7 @@ Users can optionally connect with friends and view each other's recovery progres
 | **G — Extensive Manual Tracking** | **Dropped.** Requiring users to manually enter tasks, moods, habits, and activities would create additional work for students who are already experiencing stress. This directly conflicts with our low-friction design principle. |
 | **H — Productivity Tools** | **Dropped.** Features such as Pomodoro timers and focus sessions were considered, but they focus primarily on productivity rather than understanding the user's overall capacity and preventing overload. Existing tools already address this area effectively, so it was not a strong differentiator for WellLoad. |
 
+***
 
 ###  Ideation Boards
 
@@ -163,6 +164,8 @@ Users can optionally connect with friends and view each other's recovery progres
 **Row 2**: We considered detailed self-reporting. Simplified because students won’t journal every activity. The Log feature became one-tap entry or Camera-to-Log.
 
 **Row 3**: We initially considered a focus timer. Dropped it because it optimises study time while ignoring sleep, social activities, and other responsibilities. This led to the 5-Area Capacity view instead.
+
+***
 
 **User Flow:**
 
@@ -184,6 +187,8 @@ If capacity is high → WellLoad shows What to Do Next → User receives one rec
 
 User completes the recovery activity → Earns progress in My Zoo → Pet improves as the user maintains healthy recovery habits.
 
+***
+
 **Problem Tree**
 
 <img width="1364" height="816" alt="image" src="https://github.com/user-attachments/assets/0eb9ebca-1796-44df-a048-424d5fb0e4a4" />
@@ -196,6 +201,8 @@ User completes the recovery activity → Earns progress in My Zoo → Pet improv
 **Solution:** WellLoad brings these commitments into one view and uses a 5-Area Capacity Score to show how much capacity students have left. Rest is also included, encouraging balance rather than simply doing more.
 
 **Limitation:** WellLoad cannot remove social pressure to say yes, but making capacity visible gives students a clearer basis for setting boundaries, with future ideas such as decline scripts and shareable capacity views.
+
+***
 
 ### 2.3 Mentor Consultation 
 

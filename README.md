@@ -254,8 +254,7 @@ UI Prototype: [ https://canva.link/13ofm66bpa6b781 ]
 
 ## 5. Technical Architecture & Feasibility 
 
-![Uploading Codex Image Sep 10, 2026, 02_32_14 PM.png…]()
-
+<img width="2678" height="1498" alt="image" src="https://github.com/user-attachments/assets/94f9323c-42e9-40fd-9ba9-c3fbc957e0e7" />
 
 ### Frontend
 
